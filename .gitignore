@@ -4,3 +4,8 @@
 .gradle
 /out/
 gradle.properties
+bin/
+.vscode/
+.settings/
+.project
+.classpath
