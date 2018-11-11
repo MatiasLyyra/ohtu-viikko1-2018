@@ -2,6 +2,7 @@ package ohtu.verkkokauppa;
 
 import java.util.ArrayList;
 
+
 public class Ostoskori {
 
     ArrayList<Tuote> tuotteet;
